@@ -89,6 +89,7 @@ Topics include:
 
 I'm open to freelance opportunities, project collaborations, and professional partnerships.
 
+- 📧 **Business Email:** [abhayrajput@learn10xskill.com](mailto:abhayrajput@learn10xskill.com)
 - 🌐 **Portfolio & Website:** [LEARN10XSKILL](https://learn10xskill.com)
 - 💼 **LinkedIn:** [Connect with Abhay Rajput](https://www.linkedin.com/in/abhay-rajput-7296542ab/)
 - 🎥 **YouTube:** [Learn10xskill](https://www.youtube.com/@Learn10xskill/videos)
