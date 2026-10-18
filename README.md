@@ -34,7 +34,7 @@ Git • GitHub • Composer • PHPUnit • PHPCS • PHPStan • GitHub Actions
 
 **Design & Marketing**
 
-Elementor • Figma • SEO • Google Ads • Meta Ads • Conversion Rate Optimization
+Elementor • SEO • Google Ads • Meta Ads • Conversion Rate Optimization
 
 **AI-Assisted Development**
 
