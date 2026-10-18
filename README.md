@@ -9,6 +9,7 @@ I'm a WordPress & Shopify Developer, Digital Marketing Practitioner, and Digital
 I help businesses build and improve their online presence through responsive websites, eCommerce development, website customization, and digital marketing solutions.
 
 🌐 **Website:** [learn10xskill.com](https://learn10xskill.com)
+📩 **[Hire Me — Let's Discuss Your Project](mailto:abhayrajput@learn10xskill.com?subject=Project%20Inquiry%20via%20GitHub)**
 
 💼 **Available for Freelance Projects & Collaborations**
 
